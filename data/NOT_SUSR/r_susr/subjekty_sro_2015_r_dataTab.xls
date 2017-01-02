@@ -1,0 +1,128 @@
+ID;ORACLE
+;
+; Title Row
+;
+C;Y1;X1;K"Ekonomické subjekty SR v RO pod¾a právnych foriem"
+C;Y2;X2;K"2015"
+;
+; Row 2
+;
+C;Y3
+C;X1;K"Subjekty SR úhrnom"
+C;X2;K"546 122"
+;
+; Row 3
+;
+C;Y4
+C;X1;K"Právnické osoby spolu"
+C;X2;K"207 655"
+;
+; Row 4
+;
+C;Y5
+C;X1;K"Podniky spolu"
+C;X2;K"193 262"
+;
+; Row 5
+;
+C;Y6
+C;X1;K"Obchodné spoloènosti"
+C;X2;K"183 531"
+;
+; Row 6
+;
+C;Y7
+C;X1;K"Akciové spoloènosti"
+C;X2;K"5 340"
+;
+; Row 7
+;
+C;Y8
+C;X1;K"Spol. s r.o."
+C;X2;K"176 956"
+;
+; Row 8
+;
+C;Y9
+C;X1;K"Družstvá"
+C;X2;K"1 323"
+;
+; Row 9
+;
+C;Y10
+C;X1;K"Štátne podniky"
+C;X2;K"18"
+;
+; Row 10
+;
+C;Y11
+C;X1;K"Obecné podniky"
+C;X2;K"-"
+;
+; Row 11
+;
+C;Y12
+C;X1;K"Zahranièné osoby"
+C;X2;K"2 670"
+;
+; Row 12
+;
+C;Y13
+C;X1;K"FO-podnikatelia zap. v OR"
+C;X2;K"3 209"
+;
+; Row 13
+;
+C;Y14
+C;X1;K"Neziskové inštitúcie"
+C;X2;K"14 393"
+;
+; Row 14
+;
+C;Y15
+C;X1;K"Rozpoètové organizácie"
+C;X2;K"6 395"
+;
+; Row 15
+;
+C;Y16
+C;X1;K"Príspevkové organizácie"
+C;X2;K"638"
+;
+; Row 16
+;
+C;Y17
+C;X1;K"Ostatné neziskové inštitúcie"
+C;X2;K"7 360"
+;
+; Row 17
+;
+C;Y18
+C;X1;K"Fyzické os.-podnikatelia spolu"
+C;X2;K"338 467"
+;
+; Row 18
+;
+C;Y19
+C;X1;K"Živnostníci"
+C;X2;K"316 460"
+;
+; Row 20
+;
+C;Y21
+C;X1;K"Poznámky:"
+;
+; Row 21
+;
+C;Y22
+C;X1;K"Vykazované poèty sú za ekonomicky aktívne subjekty zapísané v štatistickom registri organizácií ŠÚ SR vyhodnotené pod¾a novej metodiky Eurostatu;;"
+;
+; Row 22
+;
+C;Y23
+C;X1;K"za ekonomicky aktívny subjekt sa považuje ten, ktorý mal  v sledovanom referenènom období  zamestnancov, tržby alebo investície."
+;
+; Format Column Widths
+;
+F;W1 1 20
+E
