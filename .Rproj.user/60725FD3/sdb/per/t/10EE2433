@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1483636040221.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "10EE2433",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1483636040221,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9DBC5C31",
+        "caption" : "unemploy_nairu_macrostat",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=unemploy_nairu_macrostat&cache_key=9DBC5C31",
+        "displayedObservations" : "1",
+        "environment" : "",
+        "object" : "unemploy_nairu_macrostat",
+        "preview" : "0",
+        "totalObservations" : "1",
+        "variables" : "98"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
